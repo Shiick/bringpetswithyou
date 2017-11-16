@@ -1,0 +1,8 @@
+main: fr.shiick.bringpetswithyou.BringPetsWithYou
+name: BringPetsWithYou
+author: Shiick
+version: 1.0
+commands:
+  bringpetswithyou:
+    aliases: [bpwy]
+    description: Allows you to get the BringPetsWithYou tool.
