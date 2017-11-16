@@ -1,0 +1,15 @@
+Item:
+  ID: 280
+  DATA: 0
+  Name: "&6BringPetsWithYou tool"
+Message:
+  EntityMount: "&aYou bring up your %entity% on your head !"
+  EntityDismount: "&cYou bring down your %entity% of your head !"
+  GetTool: "&aYou successfully recieved the BringPetsWithYou tool."
+  Full: "&cYour inventory is full."
+  NoPerm: "&cYou don't have permission to execute this command."
+  NotPlayer: "Console is not allowed to get the BringPetsWithYou tool."
+  NoPlace: "&cYou have the maximum amount of entities on your head."
+  Player: "&cYou can't take players on your head."
+Config:
+  EntityLimit: 1
